@@ -1,0 +1,14 @@
+body {
+    background-color:grey;
+    margin:0;
+    padding:24px 24px;
+    font-family: sans-serif;
+}
+
+h1{
+   
+    font-size:50px
+}
+.footer{
+    font-weight: bold;
+}
